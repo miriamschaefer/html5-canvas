@@ -1,0 +1,11 @@
+.button {
+  font-family: 'Karla', sans-serif;
+  font-size: 45px;
+  font-weight: bold;
+  border: none;
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  right: 0;
+  outline: none;
+}
